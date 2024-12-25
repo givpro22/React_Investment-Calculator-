@@ -10,6 +10,7 @@ function App() {
     expectedReturn: 12,
     duration: 10,
   })
+  
 
   function handleChange(inputIdentifier, newValue){
     setUserInput(prevUserInput => {
